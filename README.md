@@ -11,3 +11,5 @@ a texture pack by HitsOnly (credits are in the pack), shared by ways.
 ![blocks](screenshots/blocks.png)
 
 ![armor](screenshots/armor.png)
+
+all rights reserved. made by wysss.
